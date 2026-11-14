@@ -1,6 +1,6 @@
 cask "displayspan" do
-  version "1.3.17,21"
-  sha256 "4ed0a2133e27aaf86dd5cb8600ed8c9c457b5d38e4f8d59aafd82b42545371ec"
+  version "1.3.18,22"
+  sha256 "a03f6e0fd9e3ad5e212da28293f628597e03023c10fb9e3aec4546c40657915b"
 
   url "https://displayspan.app/downloads/DisplaySpan-#{version.csv.first}-#{version.csv.second}.dmg"
   name "DisplaySpan"
